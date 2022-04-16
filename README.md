@@ -13,7 +13,7 @@ documentation](https://docs.microsoft.com/en-us/windows/terminal/install#setting
 
 ## Development
 
-Development requires Python 3.6 or higher, and only because we run
+Development requires Python 3.8 or higher, and only because we run
 [pre-commit](https://pre-commit.com/).
 
 1.  Clone the repo.
