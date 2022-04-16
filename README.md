@@ -8,8 +8,7 @@ This is my personal configuration files for
 
 Copy `settings.json` to `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_
 8wekyb3d8bbwe\LocalState\settings.json` per the instructions in [the
-documentation](https://docs.microsoft.com/en-us/windows/terminal/install
-#settings-json-file).
+documentation](https://docs.microsoft.com/en-us/windows/terminal/install#settings-json-file).
 
 
 ## Development
