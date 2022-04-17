@@ -63,9 +63,12 @@
     "copyOnSelect": true,
     "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
     "experimental.detectURLs": true,
+    "initialCols": 240,
+    "initialRows": 60,
     "profiles": {
         "defaults": {
             "colorScheme": "Campbell",
+            "cursorShape": "vintage",
             "font": {
                 "face": "Consolas",
                 "size": 10
