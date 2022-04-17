@@ -6,8 +6,11 @@ This is my personal configuration files for
 
 ## Usage
 
-Copy `settings.json` to `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_
-8wekyb3d8bbwe\LocalState\settings.json` per the instructions in [the
+Run `./apply_config.sh`.
+
+Or if you want to do things manually, copy `settings.json` to
+`%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
+\LocalState\settings.json` per the instructions in [the
 documentation](https://docs.microsoft.com/en-us/windows/terminal/install#settings-json-file).
 
 
